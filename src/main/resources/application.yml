@@ -21,7 +21,7 @@ spring:
       ddl-auto: none
     
 application:
-   description: Projeto criado para o Bootcamp Santander
-   version: 1.1    
+   description: Projeto criado para o Bootcamp DIO Santander / Backend
+   version: 2.0   
    terms: "http://swagger.io/terms"   
      
